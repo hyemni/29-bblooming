@@ -4,11 +4,48 @@
 <head>
 	<title>famous restaurant</title>
 	<meta charset="utf-8">
-  <frameset rows = "20% ,90%">
-    <frame src="title.html">
-  <frameset cols ="21%, 79%">
-    <frame src="frame1.html" name="left">
-    <frame src="frame2.html" name="right">
-  </frameset>
-  </frameset>
+  <style>
+	h1{
+		text-align:center;
+	}
+  h2{
+			text-align: center;
+			text-shadow: 3px 3px 2px gray;
+		}
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+		background-color: rgb(150,150,150);
+}
+li {
+    float: left;
+}
+li a:link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+}
+li a:hover {
+    background-color: #111;
+}
+.active {
+    background-color: #4CAF50;
+}
+  </style>
 </head>
+<body>
+  <h1><a href="../home.html"><img src = "../blooming.jpg" alt="블루밍 로고" title="블루밍 로고"></a></h1>
+  <h2>FOOD</h2>
+  <hr/>
+  <ul>
+    <li><a class="active" href="#home">MENU</a></li>
+    <li><a href="han.html">한대앞역</a></li>
+    <li><a href="ang.html">중앙역</a></li>
+    <li><a href="eri.html">에리카앞</a></li>
+  </ul>
+
+</body>

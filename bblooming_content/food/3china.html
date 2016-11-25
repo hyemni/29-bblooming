@@ -9,29 +9,58 @@
     border: 1px solid black;
     border-collapse: collapse;
   }
-  a:link, a:visited {
-      background-color: #008CBA;
-      color: white;
-      padding: 14px 25px;
-      text-align: center;
-      text-decoration: none;
-      display: inline-block;
+
+    h1{
+      text-align:center;
+    }
+    h2{
+        text-align: center;
+        text-shadow: 3px 3px 2px gray;
+      }
+    ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(150,150,150);
   }
-  a:hover, a:active {
-      background-color: #008CBA;
+  li {
+    float: left;
+  }
+  li a:link {
+    display: block;
+    color: white;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+  }
+  li a:hover {
+    background-color: #111;
+  }
+  .active {
+    background-color: #4CAF50;
   }
   </style>
 </head>
 
 <body>
+  <h1><a href="../home.html"><img src = "../blooming.jpg" alt="블루밍 로고" title="블루밍 로고"></a></h1>
+  <h2>FOOD</h2>
+  <hr/>
+  <ul>
+    <li><a class="active" href="#home">MENU</a></li>
+    <li><a href="han.html">한대앞역</a></li>
+    <li><a href="ang.html">중앙역</a></li>
+    <li><a href="eri.html">에리카앞</a></li>
+  </ul>
   <center>
-	<h3>중앙앞역 업종별 맛집</h3>
-  <a href="3korea.html" target="right">한식</a>
-	<a href="3china.html" target="right">중식</a>
-	<a href="3alco.html" target="right">주류</a>
-	<a href="3cafe.html" target="right">카페</a>
-</center>
-	<h2>중앙앞역 중식집을 소개해드립니다.</h2>
+  <h3>중앙역앞 업종별 맛집</h3>
+  <a href="3korea.html" >한식</a>
+  <a href="3china.html" >중식</a>
+  <a href="3alco.html" >주류</a>
+  <a href="3cafe.html" >카페</a>
+  </center>
+	<h2>중앙역앞 중식집을 소개해드립니다.</h2>
   <h3>1. 홍콩반점0410</h3>
   <table style="width:100%" align="left">
  <tr>
