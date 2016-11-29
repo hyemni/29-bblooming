@@ -11,9 +11,8 @@
         .box {border-style: dashed;
               border-color: black;}
         h1{text-align: center;
-        background-color:lightpink;
-        margin color: pink;
-        border color : pink; }
+        background-color:orange;
+        }
         h1 a:hover{
             padding: 25px 200px;
             background-color: white;
@@ -32,11 +31,25 @@
             line-height: 300%;
             background-color:black;
         }
-        #select{
+         li {
+            list-style-type: none;
+            float: left;
+            margin: 0;
+            padding: 10px 160px;
+            overflow: hidden;
+            background-color: rgb(150,150,150);
+            }
+        li:first-child{
+            border-radius: 10px 0 0 10px;
+        }
+        li:last-child{
+            border-radius: 0 10px 10px 0;
+        }
+        li:nth-child(2n){
+            background-color: dimgrey;
             color: black;
-            text-align: center}
-        #header{width = :800px;
-    
+            
+        }
             
         margin:auto;background:skyblue;}
     </style>
@@ -46,7 +59,6 @@
 
 		a:visited { color: white; text-decoration: none;}
 		a:hover { color: orange; text-decoration: none; }
-
 	</style>
 </head>
 
@@ -54,11 +66,12 @@
     <h1><a href="../home.html"><img src = "../blooming.jpg" alt="블루밍 로고" title="블루밍 로고"></h1></a>
 	<h2><a href="1.html">MUSIC</a></h2>
     <hr/>
-    <p class="center">
-        <a href="3_1.html">장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-        <a href="3_2.html">이벤트장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-        <a href="3_3.html">시즌별장르</a>
-    </p>
+    <hr/>
+    <ul class="center">
+        <li><a href="3_1.html">장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+        <li><a href="3_2.html">이벤트장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+        <li><a href="3_3.html">시즌별장르</a></li>
+    </ul>
 </body>
         
 
