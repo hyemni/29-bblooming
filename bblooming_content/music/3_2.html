@@ -4,14 +4,21 @@
 <head>
 	<title>BBLOOMING PROJECT1</title>
     <style>
+        body {
+            background-color: black;
+        }
         h1{
             text-align: center;
-            background-color: pink;
+            background-color: orange;
         }
-        h2 {
-            line-height: 300%;
+        h1 a:hover{
+            padding: 25px 200px;
+            background-color: white;
+        }
+         h2 {
+            line-height: 250%;
             text-align: center;
-            color: darkslategrey;
+            color: ghostwhite;
         }
         .line{
 			line-height: 400%;
@@ -21,33 +28,35 @@
             line-height: 250%;
             background-color:darkgrey;
         }
-        a:hover {
-            padding: 14px 10px;
-            background-color: #111;
-            text-align: center;
+        ul{
+            text-align: 400%
         }
-        li {
+        li{
             list-style-type: none;
             float: left;
             margin: 0;
-            padding: 10px 56px;
+            padding: 10px 160px;
             overflow: hidden;
             background-color: rgb(150,150,150);
-            }
+        }
         li:first-child{
             border-radius: 10px 0 0 10px;
         }
         li:last-child{
             border-radius: 0 10px 10px 0;
         }
+        li:nth-child(2n){
+            background-color: dimgrey;
+            color: black; 
+        }
         
     </style>
     
 	<meta charset="utf-8">
     <style type="text/css">
-		a:link { color: black; text-decoration: none;}
-		a:visited { color: black; text-decoration: none;}
-		a:hover { color: pink; text-decoration: none;}
+		a:link { color: ghostwhite; text-decoration: none;}
+		a:visited { color: ghostwhite; text-decoration: none;}
+		a:hover { color: orange; text-decoration: none;}
 	</style>
 </head>
     
@@ -56,12 +65,14 @@
      <h1><a href="../home.html"><img src = "../blooming.jpg" alt="블루밍 로고" title="블루밍 로고"></a></h1>
 	<h2><a href="1.html">MUSIC</a></h2>
     <hr/>
+    <hr/>
     <ul class="center">
         <li><a href="3_1.html">장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
         <li><a href="3_2.html">이벤트장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
         <li><a href="3_3.html">시즌별장르</a></li>
     </ul>
-    <p class="line"><a href = "4-1.html">1.&nbsp;&nbsp;쇼미더머니</a></p>
+    <ul>
+        <p class="line"><a href = "4-1.html">1.&nbsp;&nbsp;쇼미더머니</a></p>
         <p class="line"><a href = "4-2.html">2.&nbsp;&nbsp;듀엣가요제</a></p>
         <p class="line"><a href = "4-3.html">3.&nbsp;&nbsp;복면가왕</a></p>
         <p class="line"><a href = "4-4.html">4.&nbsp;&nbsp;OST</a></p>
@@ -69,6 +80,6 @@
         <p class="line"><a href = "4-6.html">6.&nbsp;&nbsp;썸탈때 설레는 노래</a></p>
         <p class="line"><a href = "4-7.html">7.&nbsp;&nbsp;우울할때</a></p>
         <p class="line"><a href = "4-8.html">8.&nbsp;&nbsp;회식때 부르면 인기스타 노래</a></p>   
-
-       
+    </ul>
+    
 </body>
