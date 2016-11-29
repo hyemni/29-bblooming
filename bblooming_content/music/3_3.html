@@ -8,11 +8,10 @@
             text-align: center;
            background-color: pink;
         }
-        h2{
-            background-color: aliceblue;
-            line-height: 300%;
+         h2 {
+            line-height: 250%;
             text-align: center;
-            color: pink;
+            color: darkslategrey;
         }
         .line{
 			line-height: 400%;
@@ -22,10 +21,25 @@
             line-height: 300%;
             background-color:darkgrey;
         }
-        a{
-            
+        a:hover {
+            padding: 2.4% 9px;
+            background-color: #111;
+            text-align: center;
         }
-        
+        li {
+            list-style-type: none;
+            float: left;
+            margin: 0;
+            padding: 10px 56px;
+            overflow: hidden;
+            background-color: rgb(150,150,150);
+            }
+        li:first-child{
+            border-radius: 10px 0 0 10px;
+        }
+        li:last-child{
+            border-radius: 0 10px 10px 0;
+        }
     </style>
     
 	<meta charset="utf-8">
@@ -39,13 +53,13 @@
 
 <body>
      <h1><a href="../home.html"><img src = "../blooming.jpg" alt="블루밍 로고" title="블루밍 로고"></a></h1>
-	<h2>MUSIC</h2>
+	<h2><a href="1.html">MUSIC</a></h2>
     <hr/>
-    <p class="center">
-        <a href="3_1.html">장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-        <a href="3_2.html">이벤트장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a>
-        <a href="3_3.html">시즌별장르</a>
-    </p>
+    <ul class="center">
+        <li><a href="3_1.html">장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+        <li><a href="3_2.html">이벤트장르 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp; </a></li>
+        <li><a href="3_3.html">시즌별장르</a></li>
+    </ul>
     
         <p class="line"><a href = "5-1.html">1.&nbsp;&nbsp;벚꽃축제갈때 듣기 좋은 노래</a></p>
         <p class="line"><a href = "5-2.html">2.&nbsp;&nbsp;여름휴가 갈때 듣기 좋은 노래</a></p>
