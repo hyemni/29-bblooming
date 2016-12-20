@@ -1,6 +1,6 @@
 
 # BBLOOMING : Website Project
-<img src="https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/bblooming2.jpg" width="350" height="200" />
+<img src="https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/bblooming2.jpeg" width="350" height="200" />
 
 ## PROJECT NAME
 * Our team name is "BBLOOMING".
