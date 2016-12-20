@@ -2,8 +2,20 @@
 <html lang = "ko">
 
 <head>
+/*
+        ============================================================================================================================
+            css를 활용하여 html을 꾸며보자
+            body : 뒷배경을 url에 주소를 담아서 절대경로로 박아놓고, 뒷배경사이즈와 위치를 지정
+            h1 : 글씨 색깔과 글씨의 위치를 지정
+            h3 : 글씨의 위치 지정
+            h4 : 글씨의 색깔 지정
+            p : 글씨의 색깔 지정
+            ol : ol의 뒷배경 색깔과 투명도를 지정해 준다.
+            li : 문장 마다의 간격을 지정해준다.
+        ============================================================================================================================
+*/
+    
     <style>
-/*        h1{color: black;background-color: white; width:150px;height: auto}*/
         body{background-image: url('https://i.ytimg.com/vi/kpg21_WhhUY/maxresdefault.jpg'); background-size : 100%; background-position: top;}
         h1{
         color: aliceblue;
@@ -12,7 +24,30 @@
         h3{
             text-align: center;
         }
+        ol{
+            background-color: ghostwhite;
+            opacity: 0.9
+        }
+        h4{
+            
+            color: ghostwhite;
+        }
+        p{
+            
+            color: crimson;
+        }
+        
+        li{
+            line-height: 250%;
+        }
+
       
+/*
+    ============================================================================================================================
+        myButton 이라는 클래스를 만들어서 버튼을 만들고자 할때 클래스를 호출해서 쓰게 함.
+        myButton / myButton : hover / mybutton : active 로 나누어 그때그떄의 디자인을 다르게 처리.
+    ============================================================================================================================
+*/         
         .myButton {
             text-align: center;
 	-moz-box-shadow: 0px 1px 0px 0px #1c1b18;
@@ -54,23 +89,7 @@
 	position:relative;
 	top:1px;
 }
-        ol{
-            background-color: ghostwhite;
-            opacity: 0.9
-        }
-        h4{
-            
-            color: ghostwhite;
-        }
-        p{
-            
-            color: crimson;
-        }
         
-        li{
-            line-height: 250%;
-        }
-
     </style>
 	<title>쇼미더머니</title>
      
