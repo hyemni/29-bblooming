@@ -1,16 +1,25 @@
 
 # BBLOOMING : Website Project
-<img src="https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/bblooming2.jpg" width="350" height="200" />
+
+![Alt text](https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/blooming.jpg)
 
 ## PROJECT NAME
 * Our team name is "BBLOOMING".
   Inspired by 'blooming', it is expressing our strong mind to bloom in HANYANG university.
 
-## INTRODUCTION
-* Our team is trying to make a website, which can notice information about movie, music, cosmetic, culture
-  and famous restaurant near by our university etc...and each categories has a lot of information.
+## CONTRIBUTORS
+* Nam Hyemin
+* Yun Gayeong
+* Hong Jihyeong
 
-* For examples
+## SUMMARY
+* Our team goal is making website, which is Our team is trying to make a website, which can notice information about movie, music, cosmetic, culture
+  and famous restaurant etc...and each categories has a lot of information.
+* To make website, we use JAVA with CSS and JAVASCRIPT
+* To manage website, we update the latest information on movie, music, cosmetic, culture, food.
+
+## INTRODUCTION
+* EXAMPLES
   - In beauty, we will notice this season's fashions, or this year's color or predict next year's fashion,
     and fashion recommendation considering each body type, hair, accessories, cosmetic etc.
   - In food, we will introduce restaurants near by HANYANG university at ansan or HANYANG station or Jungangdong and gojandong
@@ -18,25 +27,21 @@
     And restaurant's categories are greatly divided in Western food, Korean food, Chinese food and Japanese food
   - In culture, there is categories of movie, book, music.
     we will introduce recommendation and information of these.
-
-* Contributors
-  - Nam Hyemin
-  - Yun Gayeong
-  - Hong Jihyeong
-
-## LANGUAGE
-* HTML with CSS or JAVA
-
-## WHAT TO DO
-1. First, we will collect information.
-   Nam Hyemin takes charge of cosmetic
-   Hong Jihyeong is famous restaurant near by our university
-   and i am music
-
-2. Second, we will make ppt.(Because we have to present).
-
-3. Third, we will make website.
+* LANGUAGE
+  - [HTML](http://www.w3schools.com/html/html_intro.asp "HTML") with CSS and JAVASCRIPT
+* CONTENT
+  - [Home](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content "Home")
+  - [Music](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/music "Music")
+  - [Movie](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/movie "Movie")
+  - [food](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/food "food")
+  - [beauty](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/beauty "beauty")
+* CONTRIBUTING
+  - Pull requests for new features, bug fixes, and suggestions are welcome!
 
 ## SCREENSHOTS
 
-*
+## NEXT PLAN
+1. Add user information using JAVA programming
+2. Manage information of users
+3. Make noticeboard and communicate with users
+4. Apply for a domain
