@@ -1,25 +1,33 @@
-# 29-bblooming
 
-Hello. our team name is "BBLOOMING".
-Inspired by 'blooming', it is expressing our strong mind to bloom in HANYANG university.
+# BBLOOMING : Website Project
+![ ](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/bblooming2.jpg)
 
-This team is consist of three members, and i would like to introduce our project in the following statement.
+## PROJECT NAME
+* Our team name is "BBLOOMING".
+  Inspired by 'blooming', it is expressing our strong mind to bloom in HANYANG university.
 
-<<project>>
+## INTRODUCTION
+* Our team is trying to make a website, which can notice information about movie, music, cosmetic, culture
+  and famous restaurant near by our university etc...and each categories has a lot of information.
 
-Our team is trying to make a website, made from HTML or JAVA which can notice information about movie, music,cosmetic,culture
-and famous restaurant near by our university etc...and each categories has a lot of informations.
+* For examples
+  - In beauty, we will notice this season's fashions, or this year's color or predict next year's fashion,
+    and fashion recommendation considering each body type, hair, accessories, cosmetic etc.
+  - In food, we will introduce restaurants near by HANYANG university at ansan or HANYANG station or Jungangdong and gojandong
+    (it is also placed at Ansan).
+    And restaurant's categories are greatly divided in Western food, Korean food, Chinese food and Japanese food
+  - In culture, there is categories of movie, book, music.
+    we will introduce recommendation and information of these.
 
-For examples, in beauty, we will notice this season's fashions, or this year's color or predict next year's fashion, 
-and fashion recommandation considering each body type, hair, accessories, cosmetic etc.
+* Contributors
+  - Nam Hyemin
+  - Yun Gayeong
+  - Hong Jihyeong
 
-and in food, we will introduce restaurants near by HANYANG university at ansan or HANYANG station or Jungangdong and gojandong
-(it is also placed at Ansan).
-And restaurant's categories are greatly divided in Western food, Korean food, Chinese food and Japanese food
+## LANGUAGE
+* HTML with CSS or JAVA
 
-and in culture, there is categories of movie, book, music.
-we will introduce recommandation and informations of these.
-
+## WHAT TO DO
 1. First, we will collect information.
    Nam Hyemin takes charge of cosmetic
    Hong Jihyeong is famous restaurant near by our university
@@ -27,5 +35,8 @@ we will introduce recommandation and informations of these.
 
 2. Second, we will make ppt.(Because we have to present).
 
-3. third, we will make website.
- 
+3. Third, we will make website.
+
+## SCREENSHOTS
+
+*
