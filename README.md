@@ -13,9 +13,10 @@
 * Hong Jihyeong
 
 ## SUMMARY
-* Our team goal is making website, which is Our team is trying to make a website, which can notice information about movie, music, cosmetic, culture
-  and famous restaurant etc...and each categories has a lot of information.
-* To make website, we use JAVA with CSS and JAVASCRIPT
+* The Blooming project aims to bring together the information needed for living and to make it easier for people to use information more easily.
+* For example, if you go to play with your friends, you will not have enough information about the area, so it will give you information such as restaurants, exhibitions, parks, etc.
+* The Blooming project is focused on providing information and hope that the information we provide will be helpful.
+* Our team goal is making website, which is Our team is trying to make a website, which can notice information about movie, music, cosmetic, culture and famous restaurant etc...and each categories has a lot of information.
 * To manage website, we update the latest information on movie, music, cosmetic, culture, food.
 
 ## INTRODUCTION
