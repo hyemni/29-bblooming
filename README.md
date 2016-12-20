@@ -42,11 +42,12 @@
   - Pull requests for new features, bug fixes, and suggestions are welcome!
 
 ## SCREENSHOTS
-<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/screen.PNG" width="250" height="250" />
-<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/music1.PNG" width="250" height="250" />
-<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/music2.PNG" width="250" height="250" />
-<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/movie.PNG" width="250" height="250" />
-<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/food.PNG" width="250" height="250" />
+![introduce](https://github.com/hyemni/29-bblooming/blob/master/screenshot/소개.png)
+![food](https://github.com/hyemni/29-bblooming/blob/master/screenshot/맛집.png)
+![movie](https://github.com/hyemni/29-bblooming/blob/master/screenshot/영화.png)
+![movie](https://github.com/hyemni/29-bblooming/blob/master/screenshot/영화목록.png)
+![music](https://github.com/hyemni/29-bblooming/blob/master/screenshot/음악.png)
+![music](https://github.com/hyemni/29-bblooming/blob/master/screenshot/차트.png)
 
 ## NEXT PLAN
 1. Add user information using JAVA programming
