@@ -28,13 +28,13 @@
   - In culture, there is categories of movie, book, music.
     we will introduce recommendation and information of these.
 * LANGUAGE
-  - [링크](http://www.w3schools.com/html/html_intro.asp "HTML") HTML with CSS and JAVASCRIPT
+  - [HTML](http://www.w3schools.com/html/html_intro.asp "HTML") with CSS and JAVASCRIPT
 * CONTENT
-  - [링크](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content "Home")
-  - [링크](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/music "Music")
-  - [링크](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/movie "Movie")
-  - [링크](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/food "food")
-  - [링크](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/beauty "beauty")
+  - [Home](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content "Home")
+  - [Music](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/music "Music")
+  - [Movie](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/movie "Movie")
+  - [food](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/food "food")
+  - [beauty](https://github.com/hyemni/29-bblooming/tree/master/bblooming_content/beauty "beauty")
 * CONTRIBUTING
   - Pull requests for new features, bug fixes, and suggestions are welcome!
 
