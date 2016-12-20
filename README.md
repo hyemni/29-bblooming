@@ -20,7 +20,7 @@
 * To manage website, we update the latest information on movie, music, cosmetic, culture, food.
 
 ## INTRODUCTION
-* EXAMPLES 
+* EXAMPLES
  - The whole topic of the website is recommendation and information introduction.
  - Categories include fashion, food, culture, beauty, etc. Each category contains a lot of information.
  - In fashion, we introduce fashion trends of this season, prediction of next season Trent, recommendation of clothes considering body shape, recommendation of clothes suitable for the situation, introduction of new fashion, and introduction and recommendation of fashion such as hair and accessories.
@@ -42,6 +42,11 @@
   - Pull requests for new features, bug fixes, and suggestions are welcome!
 
 ## SCREENSHOTS
+<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/screen.PNG" width="250" height="250" />
+<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/music1.PNG" width="250" height="250" />
+<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/music2.PNG" width="250" height="250" />
+<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/movie.PNG" width="250" height="250" />
+<img src="https://github.com/hyemni/29-bblooming/blob/master/bblooming_content/screenshot/food.PNG" width="250" height="250" />
 
 ## NEXT PLAN
 1. Add user information using JAVA programming
